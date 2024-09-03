@@ -4,9 +4,9 @@
     "url": "https://daveseidman.com",
     "icon": "https://icons.duckduckgo.com/ip3/daveseidman.com.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,24 +15,28 @@
     "timeWeek": 507,
     "timeMonth": 444,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Portfolio (alt)",
     "url": "https://davexr.com",
     "icon": "https://icons.duckduckgo.com/ip3/davexr.com.ico",
     "slug": "portfolio-alt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 562,
-    "timeWeek": 504,
-    "timeMonth": 459,
-    "timeYear": 477,
-    "dailyMinutesDown": {}
+    "time": 486,
+    "timeDay": 1909,
+    "timeWeek": 848,
+    "timeMonth": 549,
+    "timeYear": 486,
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   }
 ]
