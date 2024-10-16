@@ -24,7 +24,7 @@
     "url": "https://davexr.com",
     "icon": "https://icons.duckduckgo.com/ip3/davexr.com.ico",
     "slug": "portfolio-alt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 479,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2024-10-16": 0,
       "2024-09-03": 20
     }
   }
