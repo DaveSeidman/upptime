@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/daveseidman.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.77%",
+    "uptimeYear": "94.87%",
     "time": 453,
-    "timeDay": 501,
-    "timeWeek": 475,
-    "timeMonth": 416,
+    "timeDay": 426,
+    "timeWeek": 465,
+    "timeMonth": 414,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-01-06": 21,
@@ -34,8 +34,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   },
   {
@@ -48,11 +47,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.40%",
+    "uptimeYear": "94.50%",
     "time": 457,
-    "timeDay": 371,
-    "timeWeek": 411,
-    "timeMonth": 424,
+    "timeDay": 476,
+    "timeWeek": 413,
+    "timeMonth": 421,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2025-09-03": 24,
@@ -86,8 +85,7 @@
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
-      "2024-11-15": 1440,
-      "2024-11-14": 1440
+      "2024-11-15": 1440
     }
   }
 ]
