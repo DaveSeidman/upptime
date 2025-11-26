@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/daveseidman.com.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.88%",
+    "uptimeYear": "98.16%",
     "time": 451,
-    "timeDay": 320,
-    "timeWeek": 417,
-    "timeMonth": 401,
+    "timeDay": 553,
+    "timeWeek": 434,
+    "timeMonth": 407,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2025-01-06": 21,
@@ -22,8 +22,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -32,16 +31,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/davexr.com.ico",
     "slug": "portfolio-alt",
     "status": "up",
-    "uptime": "97.28%",
+    "uptime": "97.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.51%",
+    "uptimeYear": "97.79%",
     "time": 457,
-    "timeDay": 467,
-    "timeWeek": 396,
-    "timeMonth": 398,
-    "timeYear": 450,
+    "timeDay": 494,
+    "timeWeek": 404,
+    "timeMonth": 403,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2025-09-03": 24,
       "2025-07-30": 187,
@@ -62,8 +61,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   }
 ]
